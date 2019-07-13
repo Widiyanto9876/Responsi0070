@@ -30,10 +30,10 @@ public class People{
 
 	@Override
  	public String toString(){
-		return 
-			"People{" + 
-			"results = '" + results + '\'' + 
-			",info = '" + info + '\'' + 
+		return
+			"People{" +
+			"results = '" + results + '\'' +
+			",info = '" + info + '\'' +
 			"}";
 		}
 }

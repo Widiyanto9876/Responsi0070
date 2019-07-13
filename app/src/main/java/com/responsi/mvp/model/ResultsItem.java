@@ -77,7 +77,7 @@ public class ResultsItem{
 	}
 
 	public Name getName(){
-		return name;
+		return  name;
 	}
 
 	public void setRegistered(Registered registered){
